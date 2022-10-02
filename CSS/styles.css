@@ -15,7 +15,6 @@ img {
   height: 200px;
 }
 
-
 h1 {
   color: #66BFBF;
 }
@@ -23,8 +22,6 @@ h1 {
 h3 {
   color: #B346FF;
 }
-
-
 
 a {
   text-decoration: none;
@@ -35,12 +32,6 @@ a {
 }
 
 a:hover{
-  /* color: #EAF6F6; */
   background-color: #00D7FF ;
 }
-/*
-#id {
-  padding-left: 0;
-  padding-right: 0;
-  font-size: 5px;
-} */
+
